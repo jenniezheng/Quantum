@@ -1,4 +1,4 @@
-Quantum Text Adventure Game 
+### Quantum- A Text Adventure Game (In Progress)
 
 Built with C++ and Qt windows application. 
 
